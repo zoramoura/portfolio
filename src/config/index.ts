@@ -1,8 +1,8 @@
 import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
-  title: "Riley Moura — Full Stack Developer",
-  author: "Riley Moura",
+  title: "Zora Moura — Full Stack Developer",
+  author: "Zora Moura",
   description:
     "Self-taught and detail-oriented full stack developer with 3+ years of experience building scalable applications using Laravel, Node.js, and Vue.js. Adept at designing APIs, optimizing databases, and integrating microservices.",
   lang: "en",
@@ -12,9 +12,9 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "About", href: "#about" },
   ],
   socialLinks: [
-    { text: "Email", href: "mailto:nmoura49@gmail.com" },
-    { text: "LinkedIn", href: "https://linkedin.com/in/rileymoura" },
-    { text: "Github", href: "https://github.com/rileymoura" }, // Update if you have a GitHub
+    { text: "Email", href: "mailto:rileymoura49@gmail.com" },
+    { text: "LinkedIn", href: "https://linkedin.com/in/zoramoura" },
+    { text: "Github", href: "https://github.com/zoramoura" }, // Update if you have a GitHub
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://rilemoura.vercel.app",
@@ -22,12 +22,12 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Riley Moura",
+    name: "Zora Moura",
     specialty:
       "Full Stack Developer – Laravel, Node.js, Vue.js, MySQL, MongoDB, Redis",
     summary:
       "Self-taught and detail-oriented full stack developer with 4+ years of experience building scalable applications using Laravel, Node.js, and Vue.js.",
-    email: "nmoura49@gmail.com",
+    email: "rileymoura49@gmail.com",
   },
   experience: [
     {
