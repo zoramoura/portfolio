@@ -106,7 +106,7 @@ export const SITE_CONTENT: SiteContent = {
         <li>Spanish (Intermediate)</li>
       </ul>
     `,
-    image: "/1731376687740.jpeg", // You may want to update this image
+    image: "/IMG_3306.jpeg", // You may want to update this image
   },
 };
 
