@@ -6,7 +6,7 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "Self-taught and detail-oriented full stack developer with 3+ years of experience building scalable applications using Laravel, Node.js, and Vue.js. Adept at designing APIs, optimizing databases, and integrating microservices.",
   lang: "en",
-  siteLogo: "/1731376687740.jpeg", // You may want to update this image
+  siteLogo: "/IMG_3306.jpeg", // You may want to update this image
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "About", href: "#about" },
