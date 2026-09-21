@@ -12,12 +12,12 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "About", href: "#about" },
   ],
   socialLinks: [
-    { text: "Email", href: "mailto:rileymoura49@gmail.com" },
+    { text: "Email", href: "mailto:zoramouradev@gmail.com" },
     { text: "LinkedIn", href: "https://linkedin.com/in/zoramoura" },
     { text: "Github", href: "https://github.com/zoramoura" }, // Update if you have a GitHub
   ],
   socialImage: "/zen-og.png",
-  canonicalURL: "https://rilemoura.vercel.app",
+  canonicalURL: "https://zoramoura.vercel.app",
 };
 
 export const SITE_CONTENT: SiteContent = {
@@ -27,7 +27,7 @@ export const SITE_CONTENT: SiteContent = {
       "Full Stack Developer – Laravel, Node.js, Vue.js, MySQL, MongoDB, Redis",
     summary:
       "Self-taught and detail-oriented full stack developer with 4+ years of experience building scalable applications using Laravel, Node.js, and Vue.js.",
-    email: "rileymoura49@gmail.com",
+    email: "zoramouradev@gmail.com",
   },
   experience: [
     {
